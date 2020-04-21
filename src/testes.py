@@ -19,7 +19,7 @@ else:
 
                 erroInicializar = True
 
-else:
+        else:
 
                 for elemento in linha:
 
